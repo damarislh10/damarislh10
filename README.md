@@ -5,7 +5,7 @@
 
 ***
 
-🔭 I’m constantly learning about software development.
-👩‍🏫 I'm passionate about learning and teaching.
+* 🔭 I’m constantly learning about software development.
+* 👩‍🏫 I'm passionate about learning and teaching.
 
 
