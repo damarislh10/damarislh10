@@ -7,8 +7,9 @@
 
 * 🔭 I’m constantly learning about software development.
 * 👩‍🏫 I'm passionate about learning and teaching.
-![alt text](http://url/to/img.png)
-
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.MtMTGAMsj7AZ2oliE4xbHQHaGs?pid=ImgDet&rs=1" width="350" title="hover text">
+</p>
 
 
 
