@@ -7,9 +7,9 @@
 
 * 🔭 I’m constantly learning about software development.
 * 👩‍🏫 I'm passionate about learning and teaching.
-*  <p align="left">
+*  <p align="left">I'm love dance.
    <img src="https://th.bing.com/th/id/OIP.MtMTGAMsj7AZ2oliE4xbHQHaGs?pid=ImgDet&rs=1" width="15px" title="hover text">
-</p> I'm love dance.
+</p> 
 
 
 
