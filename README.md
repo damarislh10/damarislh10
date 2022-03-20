@@ -25,4 +25,4 @@
 
 </div>
 
-<h4>Linkedin</h4><span><a href="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank"/></span>
+<span><a href="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank">My linkedin</a></span>
