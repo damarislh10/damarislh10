@@ -24,5 +24,4 @@
 <img src = "https://camo.githubusercontent.com/09807d60bef7fe173ae782521252fb89febe297cf24bd373c065f340dd63ce34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c" style="max-width: 100%;">
 
 </div>
-
-<img style="width:30px;" src="https://www.mekan.dk/wp-content/uploads/2020/03/407-4074389_linkedin-icon-png-round-transparent-png.png"/><h4><a href="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank">Click to My linkedin</a></h4>
+<h4><a href="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank">Click to My linkedin</a></h4>
