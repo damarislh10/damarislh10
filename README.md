@@ -25,4 +25,4 @@
 
 </div>
 
-<img style="max-width:100px;" src="https://www.mekan.dk/wp-content/uploads/2020/03/407-4074389_linkedin-icon-png-round-transparent-png.png"/><h4><a href="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank">Click to My linkedin</a></h4>
+<img style="width:30px;" src="https://www.mekan.dk/wp-content/uploads/2020/03/407-4074389_linkedin-icon-png-round-transparent-png.png"/><h4><a href="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank">Click to My linkedin</a></h4>
