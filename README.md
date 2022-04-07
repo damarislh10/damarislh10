@@ -10,6 +10,7 @@
 * 💞️ I'm love dance.
 
 ### <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠 </g-emoji>Technology stack 
+</hr>
 <div float=left>
 <img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" data-canonical-src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" style="max-width: 100%;" >
 
@@ -27,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/77691249/162334155-74bf323c-42bf-472d-8bd6-7a50f42d9ec5.png)
 
 </div>
-
+</hr>
 ### Contact With Me
 
 <a href="https://www.linkedin.com/in/damarishernandezdeveloper/"><img src="https://user-images.githubusercontent.com/77691249/162334537-1a05ab0d-93d1-4e51-a800-0faff34d3840.png" target="_blank"/></a>
