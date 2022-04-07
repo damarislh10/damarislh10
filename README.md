@@ -22,6 +22,8 @@
 <img src = "https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" style="max-width: 100%;">
 
 <img src = "https://camo.githubusercontent.com/09807d60bef7fe173ae782521252fb89febe297cf24bd373c065f340dd63ce34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c" style="max-width: 100%;">
+ 
+![image](https://user-images.githubusercontent.com/77691249/162334155-74bf323c-42bf-472d-8bd6-7a50f42d9ec5.png)
 
 </div>
 <h4><a href="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank">Click to My linkedin</a></h4>
