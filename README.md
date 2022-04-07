@@ -27,4 +27,5 @@
 ![image](https://user-images.githubusercontent.com/77691249/162334155-74bf323c-42bf-472d-8bd6-7a50f42d9ec5.png)
 
 </div>
-<h4><a href="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank">Click to My linkedin</a></h4>
+<a href="https://www.linkedin.com/in/damarishernandezdeveloper/"><img src="https://www.linkedin.com/in/damarishernandezdeveloper/" target="_blank"/></a>
+
