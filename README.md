@@ -34,4 +34,4 @@
 
 <a href="https://www.linkedin.com/in/damarishernandezdeveloper/"><img src="https://user-images.githubusercontent.com/77691249/162334537-1a05ab0d-93d1-4e51-a800-0faff34d3840.png" target="_blank"/></a>
 
-![Damarislh10 GitHub stats](https://github-readme-stats.vercel.app/api?username=damarislh10&theme=radical)
+![Damarislh10 GitHub stats](https://github-readme-stats.vercel.app/api?username=damarislh10&theme=radical&show_icons=true)
