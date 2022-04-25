@@ -3,7 +3,7 @@
 
 ### <p align="center">I'm a Junior Developer. I'm currently focused on the world of web development with Javascript, Vue JS, React JS and python, among others. But I'm open to learn anything!<p/> 
 
-💻 <a href="http://localhost:3000/Portafolio_web_personal" target="_blank" >personal portfolio</a>
+💻 <a href="http://localhost:3000/Portafolio_web_personal" target="_blank" >Personal portfolio</a>
 
 ***
 
