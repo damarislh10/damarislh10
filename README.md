@@ -14,7 +14,7 @@
 ### <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠 </g-emoji>Technology stack 
 </hr>
 <div float=left>
-<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" data-canonical-src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" style="max-width: 100%;" >
+<img src=<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/>" style="max-width: 100%;" >
 
 
 <img src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" style="max-width: 100%;">
