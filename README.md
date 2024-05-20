@@ -14,7 +14,7 @@
 ### <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠 </g-emoji>Technology stack 
 </hr>
 <div float=left>
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="max-width: 100%;" >
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="max-width: 20%;" >
 
 
 <img src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" style="max-width: 20%;">
