@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi there 👋 My name is Damaris Hernandez</h1>
 
 
-### <p align="center">I'm a Developer. I'm currently focused on the world of web development with Javascript, React JS, Node Js, Mysql and python, among others. But I'm open to learn anything!<p/> 
+### <p align="center">I'm a Developer. I'm currently focused on the world of web development with Next JS, React JS, Javascript, Node Js, Mysql, among others. But I'm open to learn anything!<p/> 
 
 💻 <a href="https://damarislh10.github.io/Portafolio_web_personal/" target="_blank" >Personal portfolio</a>
 
@@ -9,7 +9,6 @@
 
 * 🔭 I’m constantly learning about software development.
 * 👩‍🏫 I'm passionate about learning and teaching.
-* 💞️ I'm love dance.
 
 ### <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠 </g-emoji>Technology stack 
 </hr>
